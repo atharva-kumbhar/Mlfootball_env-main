@@ -1,1 +1,0 @@
-"""Participant bot package."""

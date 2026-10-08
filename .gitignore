@@ -1,2 +1,16 @@
 /Conv-Cup_26_Rulebook.docx.pdf
 /Originally_folder
+/Mlfootball_env-main/
+/resultes/
+/ConvCup_26_Project_Document.md
+
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Keep organizer-only tournament infrastructure local.
+/organizers/
+
+# Generated participant training and match artifacts.
+/participants/logs/
+/participants/models/
