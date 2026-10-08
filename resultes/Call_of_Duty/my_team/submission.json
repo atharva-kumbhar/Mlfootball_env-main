@@ -1,0 +1,10 @@
+{
+  "name": "Call_of_Duty",
+  "command": [
+    "python",
+    "-m",
+    "team_bot.bot",
+    "--model",
+    "team_bot/models/trained_policy.json"
+  ]
+}

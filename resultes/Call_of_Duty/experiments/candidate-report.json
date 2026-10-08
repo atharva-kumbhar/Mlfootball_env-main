@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "archive": "D:\\Mlfootball_env-main\\resultes\\Call_of_Duty\\experiments\\candidate.zip",
+  "sha256": "2c50bb65f25a8f123b058153bf378034f71ca76594df7da38b8a92e49492b1c3",
+  "team_name": "Call_of_Duty",
+  "command": [
+    "python",
+    "-m",
+    "team_bot.bot",
+    "--model",
+    "team_bot/models/candidate.json"
+  ],
+  "compressed_bytes": 2588023,
+  "uncompressed_bytes": 11688272,
+  "file_count": 8,
+  "dependencies": [],
+  "model_files": [
+    "team_bot/models/candidate.json",
+    "team_bot/models/example_policy.json"
+  ],
+  "errors": [],
+  "warnings": []
+}
